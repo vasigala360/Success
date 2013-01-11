@@ -1,4 +1,4 @@
-//  Indian Army
+//  Javaan Army
 public class A{
 
 public void fun1(){
