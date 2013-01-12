@@ -1,13 +1,13 @@
 //  Jai Bolo Andhra 
 public class A{
 
-public void funA(){
+public void funAA(){
 
 }
-public void funB(){
+public void funBB(){
 
 }
-public void funC(){
+public void funCC(){
 	
 }
 }
